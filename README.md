@@ -1,0 +1,1 @@
+# bedrock-afk-bot
